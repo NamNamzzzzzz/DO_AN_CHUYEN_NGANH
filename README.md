@@ -133,7 +133,8 @@ Hệ thống này không chỉ cung cấp khả năng tự động hóa mà còn
 
 ## Hình ảnh và tài liệu
 ### 1. Mô hình hệ thống:
-*(Thêm hình ảnh mô hình thực tế tại đây)*
+![Mô hình Đồ án chuyên ngành](DACN.jpeg)
+
 
 ### 2. Mã nguồn:
 - `ZIGBEE_CO_LCD_FREE_RTOS.ino`
